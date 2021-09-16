@@ -1,0 +1,1266 @@
+Streak: ['338']Correct: 500	Accuracy: 0.998003992015968	Total Time: 764.6833028793335
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 501	Accuracy: 0.99800796812749	Total Time: 765.5927369594574
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 502	Accuracy: 0.9980119284294234	Total Time: 766.023451089859
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 503	Accuracy: 0.998015873015873	Total Time: 766.4600124359131
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 504	Accuracy: 0.998019801980198	Total Time: 766.8908469676971
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 505	Accuracy: 0.9980237154150198	Total Time: 768.1089823246002
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 506	Accuracy: 0.9980276134122288	Total Time: 769.6863360404968
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 507	Accuracy: 0.9980314960629921	Total Time: 771.6442978382111
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 508	Accuracy: 0.9980353634577603	Total Time: 772.3054592609406
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 509	Accuracy: 0.9980392156862745	Total Time: 773.2329959869385
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 510	Accuracy: 0.9980430528375733	Total Time: 775.2872893810272
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 511	Accuracy: 0.998046875	Total Time: 777.3541526794434
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 512	Accuracy: 0.9980506822612085	Total Time: 780.1296329498291
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 513	Accuracy: 0.9980544747081712	Total Time: 781.6598048210144
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 514	Accuracy: 0.9980582524271845	Total Time: 784.588535785675
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 515	Accuracy: 0.998062015503876	Total Time: 786.2710123062134
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 516	Accuracy: 0.9980657640232108	Total Time: 787.6422071456909
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 517	Accuracy: 0.9980694980694981	Total Time: 788.660875082016
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 518	Accuracy: 0.9980732177263969	Total Time: 790.5761687755585
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 519	Accuracy: 0.9980769230769231	Total Time: 791.7951157093048
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 520	Accuracy: 0.9980806142034548	Total Time: 792.2874548435211
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 521	Accuracy: 0.9980842911877394	Total Time: 793.6940262317657
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 522	Accuracy: 0.9980879541108987	Total Time: 794.7724223136902
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 523	Accuracy: 0.9980916030534351	Total Time: 796.0519440174103
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 524	Accuracy: 0.9980952380952381	Total Time: 796.7163238525391
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 525	Accuracy: 0.9980988593155894	Total Time: 797.1727936267853
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 526	Accuracy: 0.9981024667931688	Total Time: 797.9912149906158
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 527	Accuracy: 0.9981060606060606	Total Time: 798.663822889328
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 528	Accuracy: 0.998109640831758	Total Time: 799.6519355773926
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 529	Accuracy: 0.9981132075471698	Total Time: 801.0723860263824
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 530	Accuracy: 0.9981167608286252	Total Time: 801.8772587776184
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 531	Accuracy: 0.9981203007518797	Total Time: 802.5865733623505
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 532	Accuracy: 0.99812382739212	Total Time: 803.0472655296326
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 533	Accuracy: 0.99812734082397	Total Time: 805.1461954116821
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 534	Accuracy: 0.9981308411214953	Total Time: 805.8411428928375
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 535	Accuracy: 0.9981343283582089	Total Time: 806.5570111274719
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 536	Accuracy: 0.9981378026070763	Total Time: 807.6294960975647
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 537	Accuracy: 0.9981412639405205	Total Time: 809.3260221481323
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 538	Accuracy: 0.9981447124304267	Total Time: 810.5439713001251
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 539	Accuracy: 0.9981481481481481	Total Time: 811.2387156486511
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 540	Accuracy: 0.9981515711645101	Total Time: 813.1290516853333
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 541	Accuracy: 0.9981549815498155	Total Time: 813.8774280548096
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 542	Accuracy: 0.998158379373849	Total Time: 814.9398765563965
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 543	Accuracy: 0.9981617647058824	Total Time: 816.960718870163
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 544	Accuracy: 0.998165137614679	Total Time: 817.3762435913086
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 545	Accuracy: 0.9981684981684982	Total Time: 819.0579860210419
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 546	Accuracy: 0.9981718464351006	Total Time: 820.1679537296295
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 547	Accuracy: 0.9981751824817519	Total Time: 820.9741020202637
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 548	Accuracy: 0.9981785063752276	Total Time: 821.9905369281769
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 549	Accuracy: 0.9981818181818182	Total Time: 824.1799530982971
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 550	Accuracy: 0.9981851179673321	Total Time: 824.7956891059875
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 551	Accuracy: 0.9981884057971014	Total Time: 826.3201429843903
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 552	Accuracy: 0.9981916817359855	Total Time: 828.4184029102325
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 552	Accuracy: 0.9963898916967509	Total Time: 831.2426514625549
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 553	Accuracy: 0.9963963963963964	Total Time: 831.9521832466125
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 554	Accuracy: 0.9964028776978417	Total Time: 833.1883230209351
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 555	Accuracy: 0.9964093357271095	Total Time: 833.8662369251251
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 556	Accuracy: 0.996415770609319	Total Time: 835.7634625434875
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 557	Accuracy: 0.9964221824686941	Total Time: 836.4446725845337
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 558	Accuracy: 0.9964285714285714	Total Time: 836.9852023124695
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 559	Accuracy: 0.9964349376114082	Total Time: 837.4652743339539
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 560	Accuracy: 0.99644128113879	Total Time: 839.594021320343
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 561	Accuracy: 0.9964476021314387	Total Time: 840.6116135120392
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 562	Accuracy: 0.9964539007092199	Total Time: 841.0748255252838
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 563	Accuracy: 0.9964601769911504	Total Time: 844.5448570251465
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 564	Accuracy: 0.9964664310954063	Total Time: 845.6880486011505
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 565	Accuracy: 0.9964726631393298	Total Time: 847.3893547058105
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 566	Accuracy: 0.9964788732394366	Total Time: 847.8197619915009
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 567	Accuracy: 0.9964850615114236	Total Time: 848.5156309604645
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 568	Accuracy: 0.9964912280701754	Total Time: 849.2412519454956
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 569	Accuracy: 0.9964973730297724	Total Time: 850.7369074821472
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 570	Accuracy: 0.9965034965034965	Total Time: 852.140921831131
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 571	Accuracy: 0.9965095986038395	Total Time: 852.5569727420807
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 572	Accuracy: 0.9965156794425087	Total Time: 853.4534125328064
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 573	Accuracy: 0.9965217391304347	Total Time: 854.4557828903198
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 574	Accuracy: 0.9965277777777778	Total Time: 855.8967885971069
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 575	Accuracy: 0.9965337954939342	Total Time: 857.7832646369934
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 576	Accuracy: 0.9965397923875432	Total Time: 860.6630804538727
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 577	Accuracy: 0.9965457685664939	Total Time: 862.8249025344849
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 578	Accuracy: 0.996551724137931	Total Time: 864.0120453834534
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 579	Accuracy: 0.9965576592082617	Total Time: 864.5080354213715
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 580	Accuracy: 0.9965635738831615	Total Time: 865.416913986206
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 581	Accuracy: 0.9965694682675815	Total Time: 867.6407570838928
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 582	Accuracy: 0.9965753424657534	Total Time: 868.0878999233246
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 583	Accuracy: 0.9965811965811966	Total Time: 870.7851891517639
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 584	Accuracy: 0.9965870307167235	Total Time: 871.5379676818848
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 585	Accuracy: 0.9965928449744463	Total Time: 873.9980847835541
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 586	Accuracy: 0.9965986394557823	Total Time: 874.6569111347198
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 587	Accuracy: 0.9966044142614601	Total Time: 875.3694577217102
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 588	Accuracy: 0.9966101694915255	Total Time: 878.7272675037384
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 589	Accuracy: 0.9966159052453468	Total Time: 881.8649959564209
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 590	Accuracy: 0.9966216216216216	Total Time: 883.0756013393402
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 591	Accuracy: 0.9966273187183811	Total Time: 884.4652209281921
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 592	Accuracy: 0.9966329966329966	Total Time: 885.8538684844971
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 593	Accuracy: 0.9966386554621849	Total Time: 887.4147746562958
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 594	Accuracy: 0.9966442953020134	Total Time: 887.9677016735077
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 595	Accuracy: 0.9966499162479062	Total Time: 892.0872783660889
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 596	Accuracy: 0.9966555183946488	Total Time: 893.3697912693024
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 597	Accuracy: 0.996661101836394	Total Time: 894.9580836296082
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 598	Accuracy: 0.9966666666666667	Total Time: 896.2085752487183
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 599	Accuracy: 0.9966722129783694	Total Time: 898.0891590118408
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 600	Accuracy: 0.9966777408637874	Total Time: 899.6257648468018
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 600	Accuracy: 0.9950248756218906	Total Time: 901.2393238544464
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 601	Accuracy: 0.9950331125827815	Total Time: 902.7382287979126
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 602	Accuracy: 0.9950413223140496	Total Time: 905.5117964744568
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 603	Accuracy: 0.995049504950495	Total Time: 906.0188231468201
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 604	Accuracy: 0.9950576606260296	Total Time: 907.6575813293457
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 605	Accuracy: 0.9950657894736842	Total Time: 908.4053797721863
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 606	Accuracy: 0.9950738916256158	Total Time: 910.4776387214661
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 607	Accuracy: 0.9950819672131147	Total Time: 912.3110210895538
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 608	Accuracy: 0.9950900163666121	Total Time: 914.7042634487152
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 609	Accuracy: 0.9950980392156863	Total Time: 916.9406056404114
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 610	Accuracy: 0.9951060358890701	Total Time: 917.6202683448792
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 611	Accuracy: 0.995114006514658	Total Time: 918.121171951294
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 612	Accuracy: 0.9951219512195122	Total Time: 919.303549528122
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 613	Accuracy: 0.9951298701298701	Total Time: 920.0266993045807
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 614	Accuracy: 0.9951377633711507	Total Time: 920.9715015888214
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 615	Accuracy: 0.9951456310679612	Total Time: 925.2239701747894
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 616	Accuracy: 0.9951534733441034	Total Time: 925.9061596393585
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 617	Accuracy: 0.9951612903225806	Total Time: 926.5859441757202
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 618	Accuracy: 0.9951690821256038	Total Time: 927.062507390976
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 619	Accuracy: 0.9951768488745981	Total Time: 927.7588551044464
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 620	Accuracy: 0.9951845906902087	Total Time: 928.1826119422913
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 621	Accuracy: 0.9951923076923077	Total Time: 928.8711659908295
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 622	Accuracy: 0.9952	Total Time: 931.3233666419983
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 623	Accuracy: 0.9952076677316294	Total Time: 933.8874342441559
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 624	Accuracy: 0.9952153110047847	Total Time: 937.1188163757324
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 625	Accuracy: 0.9952229299363057	Total Time: 938.6391406059265
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 626	Accuracy: 0.9952305246422893	Total Time: 939.4032418727875
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 627	Accuracy: 0.9952380952380953	Total Time: 940.2393276691437
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 628	Accuracy: 0.9952456418383518	Total Time: 940.7480597496033
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 629	Accuracy: 0.995253164556962	Total Time: 942.9018692970276
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 630	Accuracy: 0.995260663507109	Total Time: 944.6415138244629
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 631	Accuracy: 0.9952681388012619	Total Time: 945.0874981880188
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 632	Accuracy: 0.9952755905511811	Total Time: 945.5282361507416
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 633	Accuracy: 0.9952830188679245	Total Time: 945.9378130435944
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 634	Accuracy: 0.9952904238618524	Total Time: 947.0842599868774
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 635	Accuracy: 0.9952978056426333	Total Time: 948.041788816452
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 636	Accuracy: 0.9953051643192489	Total Time: 948.7350442409515
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 637	Accuracy: 0.9953125	Total Time: 954.405207157135
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 638	Accuracy: 0.9953198127925117	Total Time: 955.5749826431274
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 639	Accuracy: 0.9953271028037384	Total Time: 956.067468881607
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 640	Accuracy: 0.995334370139969	Total Time: 956.4888751506805
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 641	Accuracy: 0.9953416149068323	Total Time: 957.4711728096008
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 642	Accuracy: 0.9953488372093023	Total Time: 958.920086145401
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 643	Accuracy: 0.9953560371517027	Total Time: 961.2708988189697
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 644	Accuracy: 0.9953632148377125	Total Time: 961.6972815990448
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 645	Accuracy: 0.9953703703703703	Total Time: 962.3620088100433
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 646	Accuracy: 0.9953775038520801	Total Time: 963.9662871360779
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 647	Accuracy: 0.9953846153846154	Total Time: 968.869802236557
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 648	Accuracy: 0.9953917050691244	Total Time: 975.2646007537842
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 649	Accuracy: 0.995398773006135	Total Time: 975.6962883472443
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 650	Accuracy: 0.9954058192955589	Total Time: 977.9502322673798
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 651	Accuracy: 0.9954128440366973	Total Time: 979.1777150630951
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 652	Accuracy: 0.9954198473282443	Total Time: 980.8326349258423
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 653	Accuracy: 0.9954268292682927	Total Time: 982.0905864238739
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 654	Accuracy: 0.9954337899543378	Total Time: 984.3080048561096
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 655	Accuracy: 0.9954407294832827	Total Time: 984.7817595005035
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 656	Accuracy: 0.9954476479514416	Total Time: 985.1999304294586
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 657	Accuracy: 0.9954545454545455	Total Time: 986.949177980423
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 658	Accuracy: 0.9954614220877458	Total Time: 989.6673903465271
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 659	Accuracy: 0.9954682779456193	Total Time: 990.7591726779938
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 660	Accuracy: 0.995475113122172	Total Time: 991.7970564365387
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 661	Accuracy: 0.9954819277108434	Total Time: 994.0605301856995
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 662	Accuracy: 0.9954887218045113	Total Time: 995.0220577716827
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 663	Accuracy: 0.9954954954954955	Total Time: 997.6146831512451
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 664	Accuracy: 0.9955022488755623	Total Time: 998.0784509181976
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 665	Accuracy: 0.9955089820359282	Total Time: 999.697242975235
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 666	Accuracy: 0.9955156950672646	Total Time: 1003.4128725528717
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 667	Accuracy: 0.9955223880597015	Total Time: 1007.8753623962402
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 668	Accuracy: 0.9955290611028316	Total Time: 1008.9911851882935
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 669	Accuracy: 0.9955357142857143	Total Time: 1009.5578122138977
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 669	Accuracy: 0.9940564635958395	Total Time: 1010.240072965622
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 670	Accuracy: 0.9940652818991098	Total Time: 1010.7177982330322
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 671	Accuracy: 0.9940740740740741	Total Time: 1011.4307079315186
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 672	Accuracy: 0.9940828402366864	Total Time: 1014.4366648197174
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 673	Accuracy: 0.9940915805022157	Total Time: 1017.5488927364349
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 674	Accuracy: 0.9941002949852508	Total Time: 1018.3204774856567
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 675	Accuracy: 0.9941089837997055	Total Time: 1021.2815504074097
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 676	Accuracy: 0.9941176470588236	Total Time: 1022.3784930706024
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 677	Accuracy: 0.9941262848751835	Total Time: 1026.24382853508
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 678	Accuracy: 0.9941348973607038	Total Time: 1028.879664182663
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 679	Accuracy: 0.9941434846266471	Total Time: 1030.1755845546722
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 680	Accuracy: 0.9941520467836257	Total Time: 1031.1336295604706
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 681	Accuracy: 0.9941605839416059	Total Time: 1032.210793018341
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 682	Accuracy: 0.9941690962099126	Total Time: 1036.4874448776245
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 683	Accuracy: 0.9941775836972343	Total Time: 1038.231420993805
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 684	Accuracy: 0.9941860465116279	Total Time: 1038.8346982002258
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 685	Accuracy: 0.9941944847605225	Total Time: 1040.0525555610657
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 686	Accuracy: 0.9942028985507246	Total Time: 1041.0224702358246
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 687	Accuracy: 0.9942112879884226	Total Time: 1050.6568508148193
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 688	Accuracy: 0.9942196531791907	Total Time: 1053.2430741786957
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 689	Accuracy: 0.9942279942279942	Total Time: 1058.3152039051056
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 690	Accuracy: 0.9942363112391931	Total Time: 1059.055447101593
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 691	Accuracy: 0.9942446043165467	Total Time: 1059.5018892288208
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 692	Accuracy: 0.9942528735632183	Total Time: 1061.257801771164
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 693	Accuracy: 0.994261119081779	Total Time: 1061.9234411716461
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 694	Accuracy: 0.994269340974212	Total Time: 1062.6179795265198
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 695	Accuracy: 0.994277539341917	Total Time: 1063.0812242031097
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 696	Accuracy: 0.9942857142857143	Total Time: 1063.7924704551697
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 697	Accuracy: 0.9942938659058488	Total Time: 1065.242020368576
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 698	Accuracy: 0.9943019943019943	Total Time: 1066.421626329422
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 699	Accuracy: 0.9943100995732574	Total Time: 1067.779857635498
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 700	Accuracy: 0.9943181818181818	Total Time: 1068.2816369533539
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 701	Accuracy: 0.9943262411347518	Total Time: 1070.0383579730988
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 702	Accuracy: 0.9943342776203966	Total Time: 1070.4851052761078
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 703	Accuracy: 0.9943422913719944	Total Time: 1071.0261726379395
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 704	Accuracy: 0.9943502824858758	Total Time: 1073.1238684654236
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 705	Accuracy: 0.9943582510578279	Total Time: 1073.571615934372
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 706	Accuracy: 0.9943661971830986	Total Time: 1074.1110544204712
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 707	Accuracy: 0.9943741209563994	Total Time: 1074.6046991348267
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 708	Accuracy: 0.9943820224719101	Total Time: 1075.5331428050995
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 709	Accuracy: 0.9943899018232819	Total Time: 1077.0912895202637
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 710	Accuracy: 0.9943977591036415	Total Time: 1078.0488066673279
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 711	Accuracy: 0.9944055944055944	Total Time: 1078.5580604076385
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 712	Accuracy: 0.994413407821229	Total Time: 1079.9015154838562
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 713	Accuracy: 0.9944211994421199	Total Time: 1080.7397332191467
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 714	Accuracy: 0.9944289693593314	Total Time: 1081.4612982273102
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 715	Accuracy: 0.9944367176634215	Total Time: 1082.2208406925201
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 716	Accuracy: 0.9944444444444445	Total Time: 1083.4070355892181
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 717	Accuracy: 0.9944521497919556	Total Time: 1083.883138179779
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 718	Accuracy: 0.9944598337950139	Total Time: 1085.0867564678192
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 719	Accuracy: 0.9944674965421854	Total Time: 1086.5222392082214
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 720	Accuracy: 0.994475138121547	Total Time: 1088.3114297389984
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 721	Accuracy: 0.9944827586206897	Total Time: 1089.9925212860107
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 722	Accuracy: 0.9944903581267218	Total Time: 1091.7121353149414
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 723	Accuracy: 0.9944979367262724	Total Time: 1092.1705973148346
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 724	Accuracy: 0.9945054945054945	Total Time: 1094.101511478424
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 725	Accuracy: 0.9945130315500685	Total Time: 1097.758210659027
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 726	Accuracy: 0.9945205479452055	Total Time: 1098.1912894248962
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 727	Accuracy: 0.9945280437756497	Total Time: 1104.015198469162
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 728	Accuracy: 0.994535519125683	Total Time: 1104.916537284851
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 729	Accuracy: 0.9945429740791268	Total Time: 1107.076674938202
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 730	Accuracy: 0.9945504087193461	Total Time: 1107.8972132205963
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 731	Accuracy: 0.9945578231292517	Total Time: 1109.9640877246857
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 732	Accuracy: 0.9945652173913043	Total Time: 1110.7125670909882
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 733	Accuracy: 0.994572591587517	Total Time: 1112.0598022937775
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 734	Accuracy: 0.994579945799458	Total Time: 1113.819310426712
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 735	Accuracy: 0.9945872801082544	Total Time: 1115.0049047470093
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 736	Accuracy: 0.9945945945945946	Total Time: 1117.456452846527
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 737	Accuracy: 0.9946018893387314	Total Time: 1118.491488456726
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 738	Accuracy: 0.9946091644204852	Total Time: 1119.3915767669678
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 739	Accuracy: 0.9946164199192463	Total Time: 1120.10142660141
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 740	Accuracy: 0.9946236559139785	Total Time: 1123.3070743083954
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 741	Accuracy: 0.9946308724832215	Total Time: 1124.7055118083954
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 742	Accuracy: 0.9946380697050938	Total Time: 1125.750750541687
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 743	Accuracy: 0.9946452476572959	Total Time: 1128.8781504631042
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 744	Accuracy: 0.9946524064171123	Total Time: 1130.671216249466
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 745	Accuracy: 0.9946595460614153	Total Time: 1136.8065588474274
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 746	Accuracy: 0.9946666666666667	Total Time: 1139.1186983585358
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 747	Accuracy: 0.9946737683089214	Total Time: 1139.6725633144379
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 748	Accuracy: 0.9946808510638298	Total Time: 1143.362323999405
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 749	Accuracy: 0.9946879150066401	Total Time: 1146.3893458843231
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 750	Accuracy: 0.9946949602122016	Total Time: 1147.918491601944
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 751	Accuracy: 0.9947019867549669	Total Time: 1149.0429282188416
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 752	Accuracy: 0.9947089947089947	Total Time: 1149.6748914718628
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 753	Accuracy: 0.9947159841479525	Total Time: 1150.8309726715088
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 754	Accuracy: 0.9947229551451188	Total Time: 1151.5906953811646
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 755	Accuracy: 0.994729907773386	Total Time: 1152.5073046684265
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 756	Accuracy: 0.9947368421052631	Total Time: 1155.4312472343445
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 757	Accuracy: 0.9947437582128777	Total Time: 1157.1592464447021
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 758	Accuracy: 0.994750656167979	Total Time: 1159.7181107997894
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 759	Accuracy: 0.9947575360419397	Total Time: 1160.400015592575
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 760	Accuracy: 0.9947643979057592	Total Time: 1160.8621518611908
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 761	Accuracy: 0.9947712418300654	Total Time: 1163.5304272174835
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 762	Accuracy: 0.9947780678851175	Total Time: 1163.977840423584
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 763	Accuracy: 0.9947848761408083	Total Time: 1167.156800031662
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 764	Accuracy: 0.9947916666666666	Total Time: 1167.5905785560608
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 764	Accuracy: 0.9934980494148244	Total Time: 1168.0272438526154
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 765	Accuracy: 0.9935064935064936	Total Time: 1168.4863283634186
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 766	Accuracy: 0.993514915693904	Total Time: 1171.015739440918
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 767	Accuracy: 0.9935233160621761	Total Time: 1171.712382555008
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 768	Accuracy: 0.9935316946959897	Total Time: 1172.418877363205
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 769	Accuracy: 0.9935400516795866	Total Time: 1175.1944720745087
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 770	Accuracy: 0.9935483870967742	Total Time: 1175.6458790302277
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 771	Accuracy: 0.9935567010309279	Total Time: 1176.9690246582031
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 772	Accuracy: 0.9935649935649936	Total Time: 1179.7126729488373
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 773	Accuracy: 0.993573264781491	Total Time: 1180.1760172843933
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 774	Accuracy: 0.993581514762516	Total Time: 1181.9795949459076
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 775	Accuracy: 0.9935897435897436	Total Time: 1183.1667473316193
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 776	Accuracy: 0.9935979513444302	Total Time: 1184.230372428894
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 777	Accuracy: 0.9936061381074168	Total Time: 1185.185971736908
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 778	Accuracy: 0.9936143039591315	Total Time: 1186.7894866466522
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 779	Accuracy: 0.9936224489795918	Total Time: 1187.6732745170593
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 780	Accuracy: 0.9936305732484076	Total Time: 1188.383775472641
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 781	Accuracy: 0.9936386768447837	Total Time: 1189.881588459015
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 782	Accuracy: 0.9936467598475223	Total Time: 1190.7802340984344
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 783	Accuracy: 0.9936548223350253	Total Time: 1192.2638356685638
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 784	Accuracy: 0.9936628643852978	Total Time: 1193.2647080421448
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 785	Accuracy: 0.9936708860759493	Total Time: 1194.2512347698212
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 786	Accuracy: 0.9936788874841972	Total Time: 1196.1296236515045
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 787	Accuracy: 0.9936868686868687	Total Time: 1196.578034877777
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 788	Accuracy: 0.9936948297604036	Total Time: 1201.699738740921
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 789	Accuracy: 0.9937027707808564	Total Time: 1202.8421652317047
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 790	Accuracy: 0.9937106918238994	Total Time: 1203.5167870521545
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 791	Accuracy: 0.9937185929648241	Total Time: 1204.518389225006
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 792	Accuracy: 0.9937264742785445	Total Time: 1204.9518404006958
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 793	Accuracy: 0.993734335839599	Total Time: 1206.4211311340332
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 794	Accuracy: 0.9937421777221527	Total Time: 1206.8960292339325
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 795	Accuracy: 0.99375	Total Time: 1207.5766580104828
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 796	Accuracy: 0.9937578027465668	Total Time: 1209.721527338028
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 797	Accuracy: 0.9937655860349127	Total Time: 1211.0351603031158
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 798	Accuracy: 0.9937733499377335	Total Time: 1212.9101028442383
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 799	Accuracy: 0.9937810945273632	Total Time: 1213.40385556221
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 800	Accuracy: 0.9937888198757764	Total Time: 1214.9184386730194
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 801	Accuracy: 0.9937965260545906	Total Time: 1215.3670799732208
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 802	Accuracy: 0.9938042131350682	Total Time: 1219.2086625099182
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 803	Accuracy: 0.9938118811881188	Total Time: 1219.6580526828766
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 804	Accuracy: 0.9938195302843016	Total Time: 1220.0728468894958
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 805	Accuracy: 0.9938271604938271	Total Time: 1222.2936699390411
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 806	Accuracy: 0.9938347718865598	Total Time: 1223.9263801574707
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 807	Accuracy: 0.9938423645320197	Total Time: 1230.5750873088837
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 808	Accuracy: 0.993849938499385	Total Time: 1231.1159904003143
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 809	Accuracy: 0.9938574938574939	Total Time: 1232.752682209015
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 810	Accuracy: 0.9938650306748467	Total Time: 1234.6614542007446
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 811	Accuracy: 0.9938725490196079	Total Time: 1235.3432924747467
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 812	Accuracy: 0.9938800489596084	Total Time: 1236.63845038414
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 813	Accuracy: 0.9938875305623472	Total Time: 1240.5417861938477
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 814	Accuracy: 0.9938949938949939	Total Time: 1241.2452189922333
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 815	Accuracy: 0.9939024390243902	Total Time: 1242.5203280448914
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 816	Accuracy: 0.9939098660170523	Total Time: 1243.246027469635
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 817	Accuracy: 0.9939172749391727	Total Time: 1243.8311591148376
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 818	Accuracy: 0.9939246658566221	Total Time: 1245.0068581104279
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 819	Accuracy: 0.9939320388349514	Total Time: 1245.5148541927338
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 820	Accuracy: 0.9939393939393939	Total Time: 1248.2125959396362
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 821	Accuracy: 0.9939467312348669	Total Time: 1251.1737821102142
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 822	Accuracy: 0.9939540507859734	Total Time: 1254.0260219573975
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 823	Accuracy: 0.9939613526570048	Total Time: 1255.0159759521484
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 824	Accuracy: 0.9939686369119421	Total Time: 1255.4704422950745
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 825	Accuracy: 0.9939759036144579	Total Time: 1255.9289820194244
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 826	Accuracy: 0.9939831528279182	Total Time: 1256.9945795536041
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 827	Accuracy: 0.9939903846153846	Total Time: 1257.6756565570831
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 828	Accuracy: 0.9939975990396158	Total Time: 1261.2236187458038
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 829	Accuracy: 0.9940047961630696	Total Time: 1262.8137497901917
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 830	Accuracy: 0.9940119760479041	Total Time: 1264.309867143631
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 831	Accuracy: 0.9940191387559809	Total Time: 1266.0589134693146
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 832	Accuracy: 0.994026284348865	Total Time: 1268.7863337993622
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 832	Accuracy: 0.9928400954653938	Total Time: 1269.5114500522614
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 833	Accuracy: 0.9928486293206198	Total Time: 1270.6850800514221
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 834	Accuracy: 0.9928571428571429	Total Time: 1271.3795177936554
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 835	Accuracy: 0.9928656361474435	Total Time: 1272.4582715034485
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 836	Accuracy: 0.9928741092636579	Total Time: 1274.9456522464752
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 837	Accuracy: 0.9928825622775801	Total Time: 1276.7614467144012
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 838	Accuracy: 0.9928909952606635	Total Time: 1277.5186121463776
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 839	Accuracy: 0.9928994082840237	Total Time: 1278.7603116035461
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 840	Accuracy: 0.9929078014184397	Total Time: 1279.7881824970245
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 841	Accuracy: 0.9929161747343566	Total Time: 1282.274246454239
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 842	Accuracy: 0.9929245283018868	Total Time: 1285.74640750885
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 843	Accuracy: 0.9929328621908127	Total Time: 1286.4238119125366
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 844	Accuracy: 0.9929411764705882	Total Time: 1288.4450583457947
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 845	Accuracy: 0.9929494712103408	Total Time: 1289.7096493244171
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 846	Accuracy: 0.9929577464788732	Total Time: 1291.5066821575165
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 847	Accuracy: 0.9929660023446659	Total Time: 1293.0813477039337
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 848	Accuracy: 0.9929742388758782	Total Time: 1294.459785938263
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 849	Accuracy: 0.9929824561403509	Total Time: 1296.330905675888
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 850	Accuracy: 0.9929906542056075	Total Time: 1296.7773344516754
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 851	Accuracy: 0.9929988331388565	Total Time: 1298.7590692043304
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 852	Accuracy: 0.993006993006993	Total Time: 1299.2295043468475
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 853	Accuracy: 0.9930151338766007	Total Time: 1299.7087280750275
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 854	Accuracy: 0.9930232558139535	Total Time: 1300.513171195984
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 855	Accuracy: 0.9930313588850174	Total Time: 1301.6222269535065
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 856	Accuracy: 0.9930394431554525	Total Time: 1302.717221736908
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 857	Accuracy: 0.9930475086906141	Total Time: 1303.6423554420471
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 858	Accuracy: 0.9930555555555556	Total Time: 1305.5862085819244
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 859	Accuracy: 0.9930635838150289	Total Time: 1306.3163652420044
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 860	Accuracy: 0.9930715935334873	Total Time: 1307.1448903083801
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 861	Accuracy: 0.9930795847750865	Total Time: 1307.8967545032501
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 862	Accuracy: 0.9930875576036866	Total Time: 1308.7153215408325
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 863	Accuracy: 0.9930955120828538	Total Time: 1312.3981747627258
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 864	Accuracy: 0.993103448275862	Total Time: 1315.0469031333923
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 865	Accuracy: 0.9931113662456946	Total Time: 1317.500065088272
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 866	Accuracy: 0.9931192660550459	Total Time: 1318.9407725334167
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 867	Accuracy: 0.993127147766323	Total Time: 1320.4613282680511
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 868	Accuracy: 0.9931350114416476	Total Time: 1321.1269986629486
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 869	Accuracy: 0.9931428571428571	Total Time: 1321.5591208934784
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 870	Accuracy: 0.9931506849315068	Total Time: 1323.4092106819153
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 871	Accuracy: 0.9931584948688712	Total Time: 1326.2339358329773
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 872	Accuracy: 0.9931662870159453	Total Time: 1326.737577199936
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 873	Accuracy: 0.9931740614334471	Total Time: 1328.2842254638672
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 874	Accuracy: 0.9931818181818182	Total Time: 1329.5961318016052
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 875	Accuracy: 0.9931895573212258	Total Time: 1330.1832559108734
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 876	Accuracy: 0.9931972789115646	Total Time: 1330.8957259654999
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 877	Accuracy: 0.9932049830124575	Total Time: 1332.836135149002
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 878	Accuracy: 0.9932126696832579	Total Time: 1333.8870868682861
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 879	Accuracy: 0.9932203389830508	Total Time: 1335.3267056941986
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 880	Accuracy: 0.9932279909706546	Total Time: 1338.7014453411102
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 881	Accuracy: 0.9932356257046223	Total Time: 1342.1224682331085
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 882	Accuracy: 0.9932432432432432	Total Time: 1345.2679619789124
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 883	Accuracy: 0.9932508436445444	Total Time: 1347.3840305805206
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 884	Accuracy: 0.9932584269662922	Total Time: 1347.8294723033905
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 885	Accuracy: 0.9932659932659933	Total Time: 1348.6938438415527
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 886	Accuracy: 0.9932735426008968	Total Time: 1350.8993623256683
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 887	Accuracy: 0.9932810750279956	Total Time: 1351.3620791435242
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 888	Accuracy: 0.9932885906040269	Total Time: 1351.7821016311646
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 889	Accuracy: 0.9932960893854749	Total Time: 1352.2292442321777
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 890	Accuracy: 0.9933035714285714	Total Time: 1352.9258716106415
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 891	Accuracy: 0.9933110367892977	Total Time: 1353.6782467365265
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 892	Accuracy: 0.9933184855233853	Total Time: 1355.2214937210083
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 893	Accuracy: 0.9933259176863182	Total Time: 1355.6686193943024
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 894	Accuracy: 0.9933333333333333	Total Time: 1356.1177990436554
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 895	Accuracy: 0.9933407325194229	Total Time: 1357.1980698108673
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 896	Accuracy: 0.9933481152993349	Total Time: 1357.9362556934357
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 897	Accuracy: 0.9933554817275747	Total Time: 1360.9016997814178
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 898	Accuracy: 0.9933628318584071	Total Time: 1361.3619315624237
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 899	Accuracy: 0.9933701657458563	Total Time: 1362.0878100395203
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 900	Accuracy: 0.9933774834437086	Total Time: 1362.7848935127258
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 901	Accuracy: 0.9933847850055126	Total Time: 1363.6959154605865
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 902	Accuracy: 0.9933920704845814	Total Time: 1364.1270277500153
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 903	Accuracy: 0.9933993399339934	Total Time: 1368.7681968212128
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 904	Accuracy: 0.9934065934065934	Total Time: 1371.0666494369507
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 905	Accuracy: 0.9934138309549945	Total Time: 1372.45409822464
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 906	Accuracy: 0.993421052631579	Total Time: 1373.479246854782
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 907	Accuracy: 0.9934282584884995	Total Time: 1374.4145636558533
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 908	Accuracy: 0.9934354485776805	Total Time: 1374.9072890281677
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 909	Accuracy: 0.9934426229508196	Total Time: 1375.3848135471344
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 910	Accuracy: 0.9934497816593887	Total Time: 1375.8507616519928
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 911	Accuracy: 0.9934569247546347	Total Time: 1376.8774018287659
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 912	Accuracy: 0.9934640522875817	Total Time: 1377.6581621170044
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 913	Accuracy: 0.9934711643090316	Total Time: 1379.2025372982025
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 914	Accuracy: 0.9934782608695653	Total Time: 1380.2532436847687
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 915	Accuracy: 0.993485342019544	Total Time: 1381.5273931026459
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 916	Accuracy: 0.9934924078091106	Total Time: 1386.1000776290894
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 917	Accuracy: 0.9934994582881906	Total Time: 1387.01411819458
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 918	Accuracy: 0.9935064935064936	Total Time: 1388.1581990718842
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 919	Accuracy: 0.9935135135135135	Total Time: 1389.4410767555237
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 920	Accuracy: 0.9935205183585313	Total Time: 1389.8591632843018
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 921	Accuracy: 0.9935275080906149	Total Time: 1391.4337410926819
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 922	Accuracy: 0.9935344827586207	Total Time: 1391.8666563034058
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 923	Accuracy: 0.9935414424111948	Total Time: 1393.1341087818146
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 924	Accuracy: 0.9935483870967742	Total Time: 1393.615299463272
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 925	Accuracy: 0.9935553168635876	Total Time: 1394.9370286464691
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 926	Accuracy: 0.9935622317596566	Total Time: 1397.7171251773834
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 927	Accuracy: 0.9935691318327974	Total Time: 1398.7381854057312
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 928	Accuracy: 0.9935760171306209	Total Time: 1399.4285724163055
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 929	Accuracy: 0.9935828877005347	Total Time: 1400.1241641044617
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 930	Accuracy: 0.9935897435897436	Total Time: 1400.8641893863678
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 931	Accuracy: 0.9935965848452508	Total Time: 1401.6249170303345
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 932	Accuracy: 0.9936034115138592	Total Time: 1402.4261798858643
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 933	Accuracy: 0.9936102236421726	Total Time: 1403.2110004425049
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 934	Accuracy: 0.9936170212765958	Total Time: 1406.1598727703094
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 935	Accuracy: 0.9936238044633369	Total Time: 1409.2890915870667
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 936	Accuracy: 0.9936305732484076	Total Time: 1411.150363445282
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 937	Accuracy: 0.9936373276776246	Total Time: 1413.6689307689667
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 938	Accuracy: 0.9936440677966102	Total Time: 1414.1023857593536
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 939	Accuracy: 0.9936507936507937	Total Time: 1414.7970938682556
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 940	Accuracy: 0.9936575052854123	Total Time: 1415.4914274215698
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 941	Accuracy: 0.9936642027455121	Total Time: 1416.8238973617554
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 942	Accuracy: 0.9936708860759493	Total Time: 1417.6170873641968
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 943	Accuracy: 0.9936775553213909	Total Time: 1419.2661454677582
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 944	Accuracy: 0.9936842105263158	Total Time: 1419.704444885254
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 945	Accuracy: 0.9936908517350158	Total Time: 1421.2644855976105
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 946	Accuracy: 0.9936974789915967	Total Time: 1423.5223615169525
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 947	Accuracy: 0.993704092339979	Total Time: 1425.0543625354767
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 948	Accuracy: 0.9937106918238994	Total Time: 1425.4886455535889
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 949	Accuracy: 0.993717277486911	Total Time: 1425.9339094161987
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 950	Accuracy: 0.9937238493723849	Total Time: 1426.5381605625153
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 951	Accuracy: 0.9937304075235109	Total Time: 1427.0649409294128
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 952	Accuracy: 0.9937369519832986	Total Time: 1428.963302373886
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 953	Accuracy: 0.9937434827945777	Total Time: 1429.3950774669647
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 954	Accuracy: 0.99375	Total Time: 1430.3744921684265
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 955	Accuracy: 0.9937565036420395	Total Time: 1431.3405385017395
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 956	Accuracy: 0.9937629937629938	Total Time: 1435.1054668426514
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 957	Accuracy: 0.9937694704049844	Total Time: 1435.778243303299
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 958	Accuracy: 0.9937759336099585	Total Time: 1438.3462421894073
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 959	Accuracy: 0.9937823834196892	Total Time: 1438.9020566940308
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 960	Accuracy: 0.9937888198757764	Total Time: 1440.260909318924
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 961	Accuracy: 0.9937952430196484	Total Time: 1440.7537953853607
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 962	Accuracy: 0.993801652892562	Total Time: 1441.2492954730988
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 963	Accuracy: 0.9938080495356038	Total Time: 1442.3167090415955
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 964	Accuracy: 0.9938144329896907	Total Time: 1442.9984364509583
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 965	Accuracy: 0.9938208032955715	Total Time: 1443.6002917289734
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 966	Accuracy: 0.9938271604938271	Total Time: 1444.5558640956879
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 967	Accuracy: 0.9938335046248715	Total Time: 1447.866958141327
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 968	Accuracy: 0.9938398357289527	Total Time: 1448.683228969574
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 969	Accuracy: 0.9938461538461538	Total Time: 1453.4491987228394
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 970	Accuracy: 0.9938524590163934	Total Time: 1454.2967083454132
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 971	Accuracy: 0.9938587512794268	Total Time: 1456.1457779407501
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 972	Accuracy: 0.9938650306748467	Total Time: 1456.5775966644287
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 973	Accuracy: 0.9938712972420838	Total Time: 1457.0307219028473
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 974	Accuracy: 0.9938775510204082	Total Time: 1458.8143646717072
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 975	Accuracy: 0.9938837920489296	Total Time: 1459.6344828605652
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 976	Accuracy: 0.9938900203665988	Total Time: 1461.7435338497162
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 977	Accuracy: 0.9938962360122076	Total Time: 1462.2973589897156
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 978	Accuracy: 0.9939024390243902	Total Time: 1466.397720336914
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 979	Accuracy: 0.9939086294416244	Total Time: 1469.4176189899445
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 980	Accuracy: 0.9939148073022313	Total Time: 1469.8654699325562
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 981	Accuracy: 0.993920972644377	Total Time: 1471.4019269943237
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 982	Accuracy: 0.9939271255060729	Total Time: 1471.8564360141754
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 983	Accuracy: 0.993933265925177	Total Time: 1474.3977680206299
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 984	Accuracy: 0.9939393939393939	Total Time: 1476.248638868332
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 985	Accuracy: 0.9939455095862765	Total Time: 1479.1317839622498
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 986	Accuracy: 0.9939516129032258	Total Time: 1480.3804006576538
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 987	Accuracy: 0.9939577039274925	Total Time: 1481.9235672950745
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 988	Accuracy: 0.993963782696177	Total Time: 1483.188134431839
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 989	Accuracy: 0.9939698492462311	Total Time: 1484.6368312835693
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 990	Accuracy: 0.9939759036144579	Total Time: 1485.0759501457214
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 991	Accuracy: 0.9939819458375125	Total Time: 1488.2167398929596
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 992	Accuracy: 0.9939879759519038	Total Time: 1489.9490308761597
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 993	Accuracy: 0.993993993993994	Total Time: 1492.2198271751404
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 994	Accuracy: 0.994	Total Time: 1494.6664235591888
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 995	Accuracy: 0.994005994005994	Total Time: 1495.5155680179596
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 996	Accuracy: 0.9940119760479041	Total Time: 1496.0263178348541
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 997	Accuracy: 0.9940179461615155	Total Time: 1498.4401388168335
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 998	Accuracy: 0.9940239043824701	Total Time: 1502.1040396690369
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 999	Accuracy: 0.9940298507462687	Total Time: 1502.5464520454407
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1000	Accuracy: 0.9940357852882704	Total Time: 1503.2710258960724
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1001	Accuracy: 0.9940417080436942	Total Time: 1504.7992899417877
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1002	Accuracy: 0.9940476190476191	Total Time: 1505.2482824325562
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1003	Accuracy: 0.9940535183349851	Total Time: 1505.8286747932434
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1004	Accuracy: 0.994059405940594	Total Time: 1507.3768858909607
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1005	Accuracy: 0.9940652818991098	Total Time: 1509.9342365264893
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1006	Accuracy: 0.9940711462450593	Total Time: 1512.202421426773
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1007	Accuracy: 0.9940769990128332	Total Time: 1516.1185760498047
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1008	Accuracy: 0.9940828402366864	Total Time: 1520.2183134555817
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1009	Accuracy: 0.994088669950739	Total Time: 1520.6691007614136
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1010	Accuracy: 0.9940944881889764	Total Time: 1522.540001630783
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1011	Accuracy: 0.9941002949852508	Total Time: 1523.2530617713928
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1012	Accuracy: 0.9941060903732809	Total Time: 1523.7157752513885
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1013	Accuracy: 0.9941118743866536	Total Time: 1524.4279968738556
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1014	Accuracy: 0.9941176470588236	Total Time: 1524.8799042701721
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1015	Accuracy: 0.9941234084231146	Total Time: 1525.3767557144165
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1016	Accuracy: 0.9941291585127201	Total Time: 1530.6470322608948
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1017	Accuracy: 0.9941348973607038	Total Time: 1531.186208486557
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1018	Accuracy: 0.994140625	Total Time: 1532.2227628231049
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1019	Accuracy: 0.9941463414634146	Total Time: 1532.9772200584412
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1020	Accuracy: 0.9941520467836257	Total Time: 1536.1918995380402
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1021	Accuracy: 0.994157740993184	Total Time: 1539.1333684921265
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1022	Accuracy: 0.9941634241245136	Total Time: 1540.3657517433167
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1023	Accuracy: 0.9941690962099126	Total Time: 1540.8156733512878
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1024	Accuracy: 0.9941747572815534	Total Time: 1541.2622063159943
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1025	Accuracy: 0.9941804073714839	Total Time: 1546.0714931488037
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1026	Accuracy: 0.9941860465116279	Total Time: 1546.5029850006104
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1027	Accuracy: 0.9941916747337851	Total Time: 1547.2771322727203
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1028	Accuracy: 0.9941972920696325	Total Time: 1547.7096519470215
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1029	Accuracy: 0.9942028985507246	Total Time: 1549.7449634075165
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1030	Accuracy: 0.9942084942084942	Total Time: 1550.3006825447083
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1031	Accuracy: 0.9942140790742526	Total Time: 1551.4737207889557
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1032	Accuracy: 0.9942196531791907	Total Time: 1552.4619600772858
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1033	Accuracy: 0.9942252165543792	Total Time: 1553.894740819931
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1034	Accuracy: 0.9942307692307693	Total Time: 1555.1163635253906
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1035	Accuracy: 0.9942363112391931	Total Time: 1558.3683121204376
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1036	Accuracy: 0.9942418426103646	Total Time: 1559.8316268920898
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1037	Accuracy: 0.9942473633748802	Total Time: 1560.9269506931305
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1038	Accuracy: 0.9942528735632183	Total Time: 1562.0982115268707
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1039	Accuracy: 0.9942583732057416	Total Time: 1562.9169626235962
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1040	Accuracy: 0.994263862332696	Total Time: 1563.3950295448303
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1041	Accuracy: 0.994269340974212	Total Time: 1565.1150941848755
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1042	Accuracy: 0.9942748091603053	Total Time: 1566.3109467029572
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1043	Accuracy: 0.994280266920877	Total Time: 1566.8072514533997
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1044	Accuracy: 0.9942857142857143	Total Time: 1567.249517917633
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1045	Accuracy: 0.994291151284491	Total Time: 1567.7745549678802
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1046	Accuracy: 0.9942965779467681	Total Time: 1570.8830966949463
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1047	Accuracy: 0.9943019943019943	Total Time: 1573.1484956741333
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1048	Accuracy: 0.9943074003795066	Total Time: 1573.671611070633
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1049	Accuracy: 0.9943127962085309	Total Time: 1577.6781113147736
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1050	Accuracy: 0.9943181818181818	Total Time: 1578.8797652721405
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1051	Accuracy: 0.9943235572374646	Total Time: 1579.8832120895386
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1052	Accuracy: 0.994328922495274	Total Time: 1580.6704332828522
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1053	Accuracy: 0.9943342776203966	Total Time: 1581.6167387962341
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1054	Accuracy: 0.9943396226415094	Total Time: 1582.3375964164734
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1055	Accuracy: 0.9943449575871819	Total Time: 1584.020485162735
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1056	Accuracy: 0.9943502824858758	Total Time: 1585.9475858211517
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1057	Accuracy: 0.9943555973659455	Total Time: 1586.3790502548218
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1058	Accuracy: 0.9943609022556391	Total Time: 1586.7961757183075
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1059	Accuracy: 0.9943661971830986	Total Time: 1587.247539281845
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1060	Accuracy: 0.9943714821763602	Total Time: 1592.828548669815
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1061	Accuracy: 0.9943767572633552	Total Time: 1598.3339140415192
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1062	Accuracy: 0.9943820224719101	Total Time: 1602.4488213062286
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1063	Accuracy: 0.9943872778297475	Total Time: 1603.1439681053162
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1064	Accuracy: 0.994392523364486	Total Time: 1606.3700947761536
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1065	Accuracy: 0.9943977591036415	Total Time: 1613.6544497013092
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1066	Accuracy: 0.9944029850746269	Total Time: 1622.637847661972
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1067	Accuracy: 0.994408201304753	Total Time: 1623.671690940857
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1068	Accuracy: 0.994413407821229	Total Time: 1627.4128997325897
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1069	Accuracy: 0.9944186046511628	Total Time: 1628.101348400116
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1070	Accuracy: 0.9944237918215614	Total Time: 1628.5529284477234
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1071	Accuracy: 0.9944289693593314	Total Time: 1629.2272527217865
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1072	Accuracy: 0.9944341372912802	Total Time: 1629.776892900467
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1073	Accuracy: 0.9944392956441149	Total Time: 1632.3913881778717
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1074	Accuracy: 0.9944444444444445	Total Time: 1633.917819738388
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1075	Accuracy: 0.9944495837187789	Total Time: 1635.2411570549011
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1076	Accuracy: 0.9944547134935305	Total Time: 1636.2590065002441
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1077	Accuracy: 0.9944598337950139	Total Time: 1637.186107158661
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1078	Accuracy: 0.9944649446494465	Total Time: 1639.7448766231537
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1079	Accuracy: 0.9944700460829493	Total Time: 1640.8123500347137
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1080	Accuracy: 0.994475138121547	Total Time: 1641.7825417518616
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1081	Accuracy: 0.9944802207911684	Total Time: 1643.0329508781433
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1082	Accuracy: 0.9944852941176471	Total Time: 1645.5825445652008
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1083	Accuracy: 0.9944903581267218	Total Time: 1648.1817009449005
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1084	Accuracy: 0.9944954128440368	Total Time: 1649.955714225769
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1085	Accuracy: 0.9945004582951421	Total Time: 1651.718413591385
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1085	Accuracy: 0.9935897435897436	Total Time: 1652.4212028980255
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1086	Accuracy: 0.9935956084172004	Total Time: 1653.1177351474762
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1087	Accuracy: 0.993601462522852	Total Time: 1654.0842578411102
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1088	Accuracy: 0.993607305936073	Total Time: 1656.2749803066254
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1089	Accuracy: 0.9936131386861314	Total Time: 1657.2315752506256
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1090	Accuracy: 0.9936189608021878	Total Time: 1658.142184972763
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1090	Accuracy: 0.9927140255009107	Total Time: 1658.8696734905243
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1091	Accuracy: 0.9927206551410374	Total Time: 1660.0705411434174
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1092	Accuracy: 0.9927272727272727	Total Time: 1660.739175081253
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1093	Accuracy: 0.9927338782924614	Total Time: 1661.476697921753
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1094	Accuracy: 0.9927404718693285	Total Time: 1662.7131066322327
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1095	Accuracy: 0.9927470534904805	Total Time: 1663.3756096363068
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1096	Accuracy: 0.9927536231884058	Total Time: 1664.9310541152954
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1097	Accuracy: 0.9927601809954751	Total Time: 1667.2440116405487
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1098	Accuracy: 0.9927667269439421	Total Time: 1667.6856026649475
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1099	Accuracy: 0.992773261065944	Total Time: 1668.728973865509
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1100	Accuracy: 0.9927797833935018	Total Time: 1671.3511102199554
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1101	Accuracy: 0.9927862939585211	Total Time: 1673.0362439155579
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1102	Accuracy: 0.9927927927927928	Total Time: 1673.760926246643
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1103	Accuracy: 0.9927992799279928	Total Time: 1675.5315957069397
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1104	Accuracy: 0.9928057553956835	Total Time: 1675.975751876831
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1105	Accuracy: 0.9928122192273136	Total Time: 1676.9937040805817
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1106	Accuracy: 0.992818671454219	Total Time: 1677.4599709510803
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1107	Accuracy: 0.9928251121076234	Total Time: 1678.224748134613
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1108	Accuracy: 0.992831541218638	Total Time: 1679.1337978839874
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1109	Accuracy: 0.9928379588182632	Total Time: 1682.67822599411
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1110	Accuracy: 0.9928443649373881	Total Time: 1685.0068304538727
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1111	Accuracy: 0.9928507596067918	Total Time: 1685.4539408683777
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1112	Accuracy: 0.9928571428571429	Total Time: 1686.3948769569397
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1113	Accuracy: 0.9928635147190009	Total Time: 1689.720660686493
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1114	Accuracy: 0.9928698752228164	Total Time: 1691.6070470809937
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1115	Accuracy: 0.9928762243989314	Total Time: 1693.209356546402
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1116	Accuracy: 0.9928825622775801	Total Time: 1693.901921749115
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1117	Accuracy: 0.9928888888888889	Total Time: 1695.400773525238
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1118	Accuracy: 0.9928952042628775	Total Time: 1696.1142609119415
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1119	Accuracy: 0.9929015084294588	Total Time: 1697.3798139095306
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1120	Accuracy: 0.9929078014184397	Total Time: 1698.0991411209106
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1121	Accuracy: 0.9929140832595217	Total Time: 1700.486585855484
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1122	Accuracy: 0.9929203539823008	Total Time: 1701.0217146873474
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1123	Accuracy: 0.9929266136162688	Total Time: 1701.5168061256409
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1124	Accuracy: 0.9929328621908127	Total Time: 1702.7728571891785
+Hash: Congratulations! Collect your prize at /hash
+Streak: ['338']Correct: 1125	Accuracy: 0.9929390997352162	Total Time: 1703.6891226768494
+Hash: Congratulations! Collect your prize at /hash
